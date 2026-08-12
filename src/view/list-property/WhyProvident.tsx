@@ -19,7 +19,7 @@ function WhyProvident() {
             <h2 className="text-4xl font-bold text-blue-900 mb-8">
               Why list your property with MSpace?
             </h2>
-            
+
             <div className="space-y-4 mb-8">
               {benefits.map((benefit, index) => (
                 <div key={index} className="flex items-start space-x-3">
@@ -49,10 +49,10 @@ function WhyProvident() {
                     ))}
                   </div>
                 </div>
-                
+
                 {/* Roof */}
                 <div className="absolute -top-4 left-0 w-0 h-0 border-l-[60px] border-r-[60px] border-b-[30px] border-l-transparent border-r-transparent border-b-gray-400"></div>
-                
+
                 {/* Grass */}
                 <div className="absolute -bottom-2 left-0 w-full h-4 bg-green-400 rounded-full"></div>
               </div>
