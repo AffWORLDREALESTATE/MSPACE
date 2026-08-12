@@ -43,7 +43,7 @@ export default function Property() {
           <p className="max-w-4xl mx-auto text-sm font-light text-gray-700 leading-relaxed">
             Step into a realm of unparalleled sophistication with our featured
             properties. Explore these exclusive gems and envision your next
-            luxurious retreat with Apricity Realestate.
+            luxurious retreat with MSpace Real Estate.
           </p>
         </section>
 

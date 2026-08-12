@@ -146,7 +146,7 @@ export default function HeroSection() {
               transition={{ delay: 0.5 }}
               className="text-[#dbbb90] font-light text-lg tracking-wider"
             >
-              APRICITY REALESTATE
+              MSPACE REAL ESTATE
             </motion.p>
           </div>
         </motion.div>
@@ -154,7 +154,7 @@ export default function HeroSection() {
 
       {/* Ultra-Rich Cinematic Background */}
       <div className="absolute inset-0 w-full h-full">
-        {isLoading ? (
+        {(isLoading || offPlanProjects.length === 0) ? (
           <Image
             src="/images/bgImage.webp"
             alt="Luxury Living in Dubai"

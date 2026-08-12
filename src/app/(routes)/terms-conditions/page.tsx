@@ -2,8 +2,8 @@ import React from 'react';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms and Conditions - Apricity Realestate',
-  description: 'Terms and Conditions for Apricity Realestate - Read our terms of service and user agreement.',
+  title: 'Terms and Conditions - MSpace Real Estate',
+  description: 'Terms and Conditions for MSpace Real Estate - Read our terms of service and user agreement.',
 };
 
 export default function TermsConditionsPage() {
@@ -45,7 +45,7 @@ export default function TermsConditionsPage() {
 
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">3. Services Provided</h2>
-              <p className="text-gray-700 mb-4">Apricity Realestate provides the following services:</p>
+              <p className="text-gray-700 mb-4">MSpace Real Estate provides the following services:</p>
               <ul className="list-disc pl-6 mb-4 text-gray-700">
                 <li>Property listings for sale and rent</li>
                 <li>Off-plan property information and sales</li>
@@ -117,7 +117,7 @@ export default function TermsConditionsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">7. Intellectual Property Rights</h2>
               <p className="text-gray-700 mb-4">
-                The website and its content, including but not limited to text, graphics, logos, images, and software, are the property of Apricity Realestate or its licensors and are protected by copyright, trademark, and other intellectual property laws.
+                The website and its content, including but not limited to text, graphics, logos, images, and software, are the property of MSpace Real Estate or its licensors and are protected by copyright, trademark, and other intellectual property laws.
               </p>
               <p className="text-gray-700 mb-4">
                 You may not reproduce, distribute, modify, or create derivative works from any content without our express written permission.
@@ -146,7 +146,7 @@ export default function TermsConditionsPage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mb-3 font-serif">9.2 Limitation of Liability</h3>
               <p className="text-gray-700 mb-4">
-                To the maximum extent permitted by law, Apricity Realestate shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the website or services.
+                To the maximum extent permitted by law, MSpace Real Estate shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the website or services.
               </p>
 
               <h3 className="text-xl font-semibold text-gray-800 mb-3 font-serif">9.3 Property Information</h3>
@@ -165,7 +165,7 @@ export default function TermsConditionsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">11. Indemnification</h2>
               <p className="text-gray-700 mb-4">
-                You agree to indemnify and hold harmless Apricity Realestate, its officers, directors, employees, and agents from any claims, damages, or expenses arising from your use of the website or violation of these Terms.
+                You agree to indemnify and hold harmless MSpace Real Estate, its officers, directors, employees, and agents from any claims, damages, or expenses arising from your use of the website or violation of these Terms.
               </p>
             </section>
 

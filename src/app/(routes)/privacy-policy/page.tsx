@@ -2,8 +2,8 @@ import React from 'react';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - Apricity Realestate',
-  description: 'Privacy Policy for Apricity Realestate - Learn how we collect, use, and protect your personal information.',
+  title: 'Privacy Policy - MSpace Real Estate',
+  description: 'Privacy Policy for MSpace Real Estate - Learn how we collect, use, and protect your personal information.',
 };
 
 export default function PrivacyPolicyPage() {
