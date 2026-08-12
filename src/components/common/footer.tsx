@@ -61,30 +61,30 @@ export default function Footer() {
         <div className="font-serif">
           <h4 className="text-lg  mb-4 font-serif">Contact</h4>
           <address className="not-italic space-y-2 text-sm font-serif leading-relaxed">
-            <p>2107, Al Manara Tower, Business Bay</p>
+            <p>Suite 2404, Vision Tower, Business Bay</p>
             <p>Dubai, UAE</p>
             <p>
               <span className="font-serif">P</span>{" "}
-                <a
-                href="tel:+971558777152"
+              <a
+                href="tel:+97144567890"
                 className="relative inline-block hover:text-gray-300 transition-colors
                            after:content-[''] after:absolute after:left-0 after:bottom-0
                            after:h-[2px] after:w-0 after:bg-[#dbbb90]
                            after:transition-all after:duration-300 hover:after:w-full font-serif"
               >
-                +971-55-877-7152
+                +971 4 456 7890
               </a>
             </p>
             <p>
               <span className="font-sans">E</span>{" "}
               <a
-                href="mailto:athomson@apricityrealestate.ae"
+                href="mailto:info@mspacerealestate.com"
                 className="relative inline-block hover:text-gray-300 transition-colors
                            after:content-[''] after:absolute after:left-0 after:bottom-0
                            after:h-[2px] after:w-0 after:bg-[#dbbb90]
                            after:transition-all after:duration-300 hover:after:w-full font-serif"
               >
-                athomson@apricityrealestate.ae
+                info@mspacerealestate.com
               </a>
             </p>
           </address>
@@ -113,7 +113,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="container mx-auto border-t border-white/20 pt-4 flex flex-col md:flex-row items-center justify-between text-sm text-white/70">
         <p className="font-serif">
-          &copy; {"2025 Apricity Realestate. All Rights Reserved."}
+          &copy; {"2026 MSpace Real Estate. All Rights Reserved."}
         </p>
       </div>
     </footer>

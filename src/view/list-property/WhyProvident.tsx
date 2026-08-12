@@ -17,7 +17,7 @@ function WhyProvident() {
           {/* Left Content */}
           <div>
             <h2 className="text-4xl font-bold text-blue-900 mb-8">
-              Why list your property with Provident?
+              Why list your property with MSpace?
             </h2>
             
             <div className="space-y-4 mb-8">

@@ -21,7 +21,7 @@ export default function TermsConditionsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">1. Acceptance of Terms</h2>
               <p className="text-gray-700 mb-4">
-                Welcome to Apricity Realestate. These Terms and Conditions ("Terms") govern your use of our website <a href="https://apricityrealestate.com" className="text-blue-600 hover:underline">apricityrealestate.com</a> and our services. By accessing or using our website, you agree to be bound by these Terms.
+                Welcome to MSpace Real Estate. These Terms and Conditions ("Terms") govern your use of our website <a href="https://mspacerealestate.com" className="text-blue-600 hover:underline">mspacerealestate.com</a> and our services. By accessing or using our website, you agree to be bound by these Terms.
               </p>
               <p className="text-gray-700 mb-4">
                 If you do not agree to these Terms, please do not use our website or services.
@@ -29,17 +29,17 @@ export default function TermsConditionsPage() {
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">2. About Apricity Realestate</h2>
+              <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">2. About MSpace Real Estate</h2>
               <p className="text-gray-700 mb-4">
-                Apricity Realestate is a real estate platform based in Dubai, UAE, providing property listings, real estate services, and related services. We are committed to connecting property buyers, sellers, and renters in the Dubai real estate market.
+                MSpace Real Estate is a real estate platform based in Dubai, UAE, providing property listings, real estate services, and related services. We are committed to connecting property buyers, sellers, and renters in the Dubai real estate market.
               </p>
               <div className="bg-gray-50 p-6 rounded-lg mb-4">
                 <p className="text-gray-700 mb-2"><strong>Company Information:</strong></p>
-                <p className="text-gray-700 mb-2">Apricity Realestate</p>
-                <p className="text-gray-700 mb-2">2107, Al Manara Tower, Business Bay</p>
+                <p className="text-gray-700 mb-2">MSpace Real Estate</p>
+                <p className="text-gray-700 mb-2">Suite 2404, Vision Tower, Business Bay</p>
                 <p className="text-gray-700 mb-2">Dubai, UAE</p>
-                <p className="text-gray-700 mb-2">Phone: <a href="tel:+971558777152" className="text-blue-600 hover:underline">+971-55-877-7152</a></p>
-                <p className="text-gray-700">Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
+                <p className="text-gray-700 mb-2">Phone: <a href="tel:+97144567890" className="text-blue-600 hover:underline">+971 4 456 7890</a></p>
+                <p className="text-gray-700">Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
               </div>
             </section>
 
@@ -209,19 +209,19 @@ export default function TermsConditionsPage() {
                 If you have any questions about these Terms and Conditions, please contact us:
               </p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="text-gray-700 mb-2"><strong>Apricity Realestate</strong></p>
-                <p className="text-gray-700 mb-2">2107, Al Manara Tower, Business Bay</p>
+                <p className="text-gray-700 mb-2"><strong>MSpace Real Estate</strong></p>
+                <p className="text-gray-700 mb-2">Suite 2404, Vision Tower, Business Bay</p>
                 <p className="text-gray-700 mb-2">Dubai, UAE</p>
-                <p className="text-gray-700 mb-2">Phone: <a href="tel:+971558777152" className="text-blue-600 hover:underline">+971-55-877-7152</a></p>
-                <p className="text-gray-700 mb-2">Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
-                <p className="text-gray-700">General Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
+                <p className="text-gray-700 mb-2">Phone: <a href="tel:+97144567890" className="text-blue-600 hover:underline">+971 4 456 7890</a></p>
+                <p className="text-gray-700 mb-2">Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
+                <p className="text-gray-700">General Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
               </div>
             </section>
 
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">17. Entire Agreement</h2>
               <p className="text-gray-700 mb-4">
-                These Terms, together with our Privacy Policy and any other legal notices published on our website, constitute the entire agreement between you and Apricity Realestate regarding your use of our website and services.
+                These Terms, together with our Privacy Policy and any other legal notices published on our website, constitute the entire agreement between you and MSpace Real Estate regarding your use of our website and services.
               </p>
             </section>
           </div>

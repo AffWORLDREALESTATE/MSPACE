@@ -21,7 +21,7 @@ function ContactUs() {
               CONNECT WITH LUXURY
             </p>
             <h2 className="text-4xl md:text-5xl text-gray-800 leading-tight font-serif mb-6">
-              Get in Touch with <span className="text-[#dbbb90] font-normal">Apricity Realestate</span>
+              Get in Touch with <span className="text-[#dbbb90] font-normal">MSpace Real Estate</span>
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed font-serif">
               Have a question or ready to embark on your real estate journey? Our team is here to assist you every step of
@@ -41,7 +41,7 @@ function ContactUs() {
                 </div>
                 <div>
                   <p className="text-gray-800 font-medium font-serif">Address</p>
-                  <p className="text-gray-600 font-serif">2107, Al Manara Tower, Business Bay</p>
+                  <p className="text-gray-600 font-serif">Suite 2404, Vision Tower, Business Bay</p>
                   <p className="text-gray-600 font-serif">Dubai – UAE</p>
                 </div>
               </div>
@@ -55,10 +55,10 @@ function ContactUs() {
                 <div>
                   <p className="text-gray-800 font-medium font-serif">Phone</p>
                   <a
-                    href="tel:+971558777152"
+                    href="tel:+97144567890"
                     className="text-[#dbbb90] hover:text-[#C2A17B] transition-colors font-serif"
                   >
-                    +971-55-877-7152
+                    +971 4 456 7890
                   </a>
                 </div>
               </div>
@@ -72,10 +72,10 @@ function ContactUs() {
                 <div>
                   <p className="text-gray-800 font-medium font-serif">Email</p>
                   <a
-                    href="mailto:athomson@apricityrealestate.ae"
+                    href="mailto:info@mspacerealestate.com"
                     className="text-[#dbbb90] hover:text-[#C2A17B] transition-colors font-serif"
                   >
-                    athomson@apricityrealestate.ae
+                    info@mspacerealestate.com
                   </a>
                 </div>
               </div>

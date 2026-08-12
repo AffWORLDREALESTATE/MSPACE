@@ -21,7 +21,7 @@ export default function DisclaimerPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 font-serif">1. General Information</h2>
               <p className="text-gray-700 mb-4">
-                The information contained on this website (apricityrealestate.com) is for general information purposes only. While we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
+                The information contained on this website (mspacerealestate.com) is for general information purposes only. While we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
               </p>
               <p className="text-gray-700 mb-4">
                 Any reliance you place on such information is therefore strictly at your own risk.
@@ -178,12 +178,12 @@ export default function DisclaimerPage() {
                 If you have any questions about this disclaimer, please contact us:
               </p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="text-gray-700 mb-2"><strong>Apricity Realestate</strong></p>
-                <p className="text-gray-700 mb-2">2107, Al Manara Tower, Business Bay</p>
+                <p className="text-gray-700 mb-2"><strong>MSpace Real Estate</strong></p>
+                <p className="text-gray-700 mb-2">Suite 2404, Vision Tower, Business Bay</p>
                 <p className="text-gray-700 mb-2">Dubai, UAE</p>
-                <p className="text-gray-700 mb-2">Phone: <a href="tel:+971558777152" className="text-blue-600 hover:underline">+971-55-877-7152</a></p>
-                <p className="text-gray-700 mb-2">Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
-                <p className="text-gray-700">General Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
+                <p className="text-gray-700 mb-2">Phone: <a href="tel:+97144567890" className="text-blue-600 hover:underline">+971 4 456 7890</a></p>
+                <p className="text-gray-700 mb-2">Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
+                <p className="text-gray-700">General Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
               </div>
             </section>
 

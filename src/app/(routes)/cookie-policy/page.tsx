@@ -227,12 +227,12 @@ export default function CookiePolicyPage() {
                 If you have any questions about our use of cookies or this Cookie Policy, please contact us:
               </p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="text-gray-700 mb-2"><strong>Apricity Realestate</strong></p>
-                <p className="text-gray-700 mb-2">2107, Al Manara Tower, Business Bay</p>
+                <p className="text-gray-700 mb-2"><strong>MSpace Real Estate</strong></p>
+                <p className="text-gray-700 mb-2">Suite 2404, Vision Tower, Business Bay</p>
                 <p className="text-gray-700 mb-2">Dubai, UAE</p>
-                <p className="text-gray-700 mb-2">Phone: <a href="tel:+971558777152" className="text-blue-600 hover:underline">+971-55-877-7152</a></p>
-                <p className="text-gray-700 mb-2">Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
-                <p className="text-gray-700">General Email: <a href="mailto:athomson@apricityrealestate.ae" className="text-blue-600 hover:underline">athomson@apricityrealestate.ae</a></p>
+                <p className="text-gray-700 mb-2">Phone: <a href="tel:+97144567890" className="text-blue-600 hover:underline">+971 4 456 7890</a></p>
+                <p className="text-gray-700 mb-2">Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
+                <p className="text-gray-700">General Email: <a href="mailto:info@mspacerealestate.com" className="text-blue-600 hover:underline">info@mspacerealestate.com</a></p>
               </div>
             </section>
 
