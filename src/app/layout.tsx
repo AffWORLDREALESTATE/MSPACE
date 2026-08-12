@@ -23,6 +23,11 @@ const trajanPro = localFont({
 export const metadata: Metadata = {
   title: "MSpace Real Estate",
   description: "Premium real estate solutions in Dubai",
+  icons: {
+    icon: "/images/logo.png",
+    shortcut: "/images/logo.png",
+    apple: "/images/logo.png",
+  },
 };
 
 export default function RootLayout({
