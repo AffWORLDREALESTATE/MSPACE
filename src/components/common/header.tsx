@@ -144,9 +144,10 @@ export default function Header() {
             <Image
               src="/images/logo.png"
               alt="MSpace Real Estate Logo"
-              width={120}
-              height={40}
+              width={160}
+              height={50}
               className="object-contain"
+              loading="eager"
             />
           </Link>
         </div>
